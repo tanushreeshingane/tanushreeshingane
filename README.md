@@ -6,13 +6,14 @@
 - 📧 Contact: tanushreeshingane@gmail.com
 
 
-### Skills and Tools
+### 🛠️ Skills and Tools
+![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=sql&logoColor=white)   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 #### Programming Languages
-- Python (Pandas)
+- Python (Pandas) 
 - SQL 
 
 #### Data Visualization & BI Tools
-- Power BI (DAX, Power Query, Dashboards)
+- Power BI (DAX, Power Query, Dashboards) 
 - Matplotlib
 - Seaborn
 
@@ -21,7 +22,7 @@
 - IBM DataStage (basic experience)
 
 #### Data Analysis
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA using Jupyter Notebooks)
 - Statistical Analysis (descriptive statistics & hypothesis testing)
 - Data Cleaning & Transformation
 <!--
