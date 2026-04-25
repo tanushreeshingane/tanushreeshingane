@@ -3,7 +3,11 @@
 - 🛠️ Skilled in Power BI, SQL and Python (Pandas) for data analysis, visualization, and reporting. 
 - 🌱 Currently focusing on improving my skills in data storytelling and business insights.
 - 💼 Actively seeking a Data Analyst role (full-time or contract)
-- 📧 Contact: tanushreeshingane@gmail.com
+- 📧 Contact:
+   - tanushreeshingane@gmail.com
+   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-shingane/)
+
+
 
 
 ### 🛠️ Skills and Tools
